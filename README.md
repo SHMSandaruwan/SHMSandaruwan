@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHMSandaruwan
 - 👀 I’m interested in coding travaling 
-- 🌱 I’m currently learning vue js, react js, laravel, node js
+- 🌱 I’m currently learning vue js, react js, laravel, spring boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin
 
